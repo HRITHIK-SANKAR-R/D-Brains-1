@@ -80,18 +80,7 @@ Ensure you have the following tools installed:
    ```bash
    git clone https://github.com/your-repo/tezos-farming-platform.git
    cd tezos-farming-platform
-#Install Dependencies:
 
-  bash
-
-npm install
-Install the dependencies required for the Next.js application.
-
-Install SmartPy
-Download and install SmartPy to compile and test the smart contracts.
-
-Running the Project
-Start the Next.js Development Server:
 
 ## Install Dependencies
 
