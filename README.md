@@ -19,9 +19,6 @@ This repository contains the codebase for the **Assured Contract Farming Platfor
 - [Smart Contract Overview](#smart-contract-overview)
   - [Entry Points](#entry-points)
   - [How It Works](#how-it-works)
-- [Deployment](#deployment)
-  - [Deploying the Smart Contract](#deploying-the-smart-contract)
-  - [Deploying the Frontend](#deploying-the-frontend)
 - [License](#license)
 
 ---
