@@ -3,6 +3,10 @@
 
 This repository contains the codebase for the **Assured Contract Farming Platform**, a decentralized application (DApp) built on the Tezos blockchain using Next.js. The project was developed as part of the **Hack7Days** hackathon and aims to provide a secure, transparent, and automated platform for contract-based transactions between farmers and buyers.
 
+Have a look at our contract deployed in tezos blockchain:
+ Contract_address - KT1TZjQAC2AK2CJQPGPEhQCmaXhWP84S9oss
+ Cotract deployed link from better-call.dev - https://better-call.dev/ghostnet/KT1TZjQAC2AK2CJQPGPEhQCmaXhWP84S9oss
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
