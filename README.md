@@ -8,6 +8,8 @@ Have a look at our contract deployed in tezos blockchain:
  
  Contract deployed link from better-call.dev - https://better-call.dev/ghostnet/KT1TZjQAC2AK2CJQPGPEhQCmaXhWP84S9oss
 
+ We have deployed our smartcontract in Tezos Ghostnet blockchain Network through smartpyIDE (https://ghostnet.smartpy.io/)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
