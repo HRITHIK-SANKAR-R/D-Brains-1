@@ -5,7 +5,8 @@ This repository contains the codebase for the **Assured Contract Farming Platfor
 
 Have a look at our contract deployed in tezos blockchain:
  Contract_address - KT1TZjQAC2AK2CJQPGPEhQCmaXhWP84S9oss
- Cotract deployed link from better-call.dev - https://better-call.dev/ghostnet/KT1TZjQAC2AK2CJQPGPEhQCmaXhWP84S9oss
+ 
+ Contract deployed link from better-call.dev - https://better-call.dev/ghostnet/KT1TZjQAC2AK2CJQPGPEhQCmaXhWP84S9oss
 
 ## Table of Contents
 
