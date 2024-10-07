@@ -78,7 +78,7 @@ Ensure you have the following tools installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/tezos-farming-platform.git
+   git clone https://github.com/https://github.com/Navin-Lakshman-S/D-Brains.git/tezos-farming-platform.git
    cd tezos-farming-platform
 
 
