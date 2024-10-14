@@ -128,10 +128,6 @@ The **Assured Contract** smart contract ensures that payments between farmers an
 3. **Payment Transfer**: The contract automatically transfers the agreed-upon payment to the farmer's address after confirmation of delivery.
 
 
-How It Works
-Buy: The buyer selects goods from the available list and invokes the buy entry point.
-Delivery Confirmation: Once the goods are delivered, the deliver entry point is triggered, verifying the total price.
-Payment Transfer: The contract automatically transfers the agreed-upon payment to the farmer's address after confirmation of delivery.
 
 ## License
 
